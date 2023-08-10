@@ -17,6 +17,16 @@ h2 {
 	font-size: 40px;
 }
 
+h3 {
+	font-size: 20px;
+	font: bold;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+h4 {
+	font-size: 15px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
 /* This just centers the header container vertically on the page. */
 .container-fluid {
 	height: 200px;
